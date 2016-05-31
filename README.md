@@ -5,3 +5,4 @@ Note:This is a Demo area stacked in Echart framework. All dependencies are in a 
 
 #Display
 看起来还很OK！
+![image](https://github.com/guzhenping/Stacked-Area-Chart/blob/master/display/pic.png)
